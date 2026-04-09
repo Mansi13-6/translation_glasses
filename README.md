@@ -1,4 +1,4 @@
-# 👓 AI Translation Glasses
+# 👓 Wearable Translation Glasses
 
 ## 📌 Project Overview
 
